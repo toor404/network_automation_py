@@ -1,0 +1,3 @@
+#perhatikan urutannya
+#hostname,nama device,user ssh,password ssh,password enable ssh
+192.168.1.1,router-pusat,cisco,Letmein99,Letmein99
