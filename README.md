@@ -1,12 +1,22 @@
-networkautomation
+# networkautomation
 aplikasi aplikasi untuk mempermudah operasional netwrok engineer
 
-Langkah Awal Siapin Virtual Environment
+# Langkah Awal Siapin Virtual Environment
+
 python3 -m venv namaenvnya
 
-Cara mengaksesnya
-Macbook / Linux
+# Cara mengaksesnya
+
+1. Macbook / Linux
+
 source env/bin/activate
 
-Windows
+2. Windows
+
 venv\scrpits\activate.bat
+
+
+
+
+
+
